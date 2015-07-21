@@ -533,13 +533,15 @@ a {
     margin: 0;
     padding: 0
 }
-iframe,
 img,
 embed,
 object,
 video {
     max-width: 100%;
     height :auto;
+}
+iframe{
+  max-width: 100%;
 }
 img[align=left] {
     margin-right: 3%
