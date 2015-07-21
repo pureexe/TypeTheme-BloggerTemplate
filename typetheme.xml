@@ -538,7 +538,8 @@ img,
 embed,
 object,
 video {
-    max-width: 100%
+    max-width: 100%;
+    height :auto;
 }
 img[align=left] {
     margin-right: 3%
