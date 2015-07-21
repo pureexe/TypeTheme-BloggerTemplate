@@ -720,6 +720,9 @@ header .meta {
 #comments {
     padding-bottom: 0px
 }
+i.fa{
+  font-size:1.5em;
+}
 ]]></b:skin>
         <script type="text/javascript">
 summary_noimg = 300;
