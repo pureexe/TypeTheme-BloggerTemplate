@@ -1,5 +1,6 @@
 # Type Theme for Blogger
-![Default Type Theme blog](https://cloud.githubusercontent.com/assets/816965/5142407/19742e48-71d6-11e4-8d9d-fdfe010784f0.png)
+![Default Type Theme blog](https://cloud.githubusercontent.com/assets/816965/5142407/19742e48-71d6-11e4-8d9d-fdfe010784f0.png)  
+Demo : http://typethemedev.blogspot.com
 ##Installation Guide 
 http://typethemedev.blogspot.com/2015/07/installation-guide.html  
 ##Information
